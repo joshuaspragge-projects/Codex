@@ -20,14 +20,6 @@ I am a creative and logical thinker specializing in the intersection of Deep AI 
 - **Curiosity over Assumption:** I never stop at the first answer; I find the *right* one.
 - **Calm over Chaos:** Logic is the anchor. Even in high-pressure environments, the methodology remains steady.
 - **Empathy over Ego:** Technology is only as good as the human problems it solves.
-
----
-
-### 🚀 Key Repositories
-- [**AI-Solution-Blueprints**](link-to-repo) - A collection of logic maps for complex AI integration.
-- [**Deep-Research-Reports**](link-to-repo) - Case studies in discovery and market landscape analysis.
-- [**Suno-Audio-Personas**](link-to-repo) - Documentation on maintaining vocal consistency in AI-generated music.
-
 ---
 
 ### 💻 The Tech Stack
@@ -41,8 +33,7 @@ I am a creative and logical thinker specializing in the intersection of Deep AI 
 ### 📬 Connect with the Logic
 I am currently open to "Beta" AI Strategy Audits and collaborative research projects.
 
-- **LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-- **Website:** [YourDomain.vercel.app](https://yourdomain.vercel.app)
+- **LinkedIn:** https://www.linkedin.com/in/joshua-spragge-020652391
 - **Status:** *Currently building from the ground up with grit and logic.*
 
 ---
