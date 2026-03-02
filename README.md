@@ -37,4 +37,3 @@ I am currently open to "Beta" AI Strategy Audits and collaborative research proj
 - **Status:** *Currently building from the ground up with grit and logic.*
 
 ---
-*"The answer is always there—you just have to be curious enough to find the logic that unlocks it."*
